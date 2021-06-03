@@ -30,7 +30,7 @@ public class ProfileFragment extends Fragment {
         mAutoCompleteTextViewGender = view.findViewById(R.id.autoCompleteProfileGender);
 
         String[] types = getResources().getStringArray(R.array.gender);
-        ArrayAdapter adapter = new ArrayAdapter(requireContext(),R.layout.dropdown_menu_complaint_type,types);
+        ArrayAdapter adapter = new ArrayAdapter(requireContext(),R.layout.dropdown_menu,types);
         mAutoCompleteTextViewGender.setAdapter(adapter);
     }
 }

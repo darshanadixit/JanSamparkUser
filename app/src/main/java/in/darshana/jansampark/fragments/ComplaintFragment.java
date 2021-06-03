@@ -28,7 +28,7 @@ public class ComplaintFragment extends Fragment {
         mAutoCompleteTextViewComplaintType = view.findViewById(R.id.autoCompleteComplaintType);
 
         String[] types = getResources().getStringArray(R.array.complaint_type);
-        ArrayAdapter adapter = new ArrayAdapter(requireContext(),R.layout.dropdown_menu_complaint_type,types);
+        ArrayAdapter adapter = new ArrayAdapter(requireContext(),R.layout.dropdown_menu,types);
         mAutoCompleteTextViewComplaintType.setAdapter(adapter);
     }
 }
