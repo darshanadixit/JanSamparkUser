@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">JanSampark</string>
+    <string name="txtview_Login">Login</string>
+    <string name="edt_username_login">User name</string>
+    <string name="edt_password_login">Password</string>
+    <string name="txtview_forgot_password">Forgot Password</string>
+    <string name="btn_login">Login</string>
+    <string name="txtview_signInWith">Sign in with</string>
+    <string name="txtview_newuser">New User</string>
+    <string name="textviewlink_Signup">Sign up</string>
+    <string name="textview_Signup">Sign Up</string>
+    <string name="edt_UserName_Signup">User name</string>
+    <string name="edt_mobile_number">Mobile No</string>
+    <string name="edt_email_signup">Email ID</string>
+    <string name="edt_password_signup">Password</string>
+    <string name="confirm_password_signup">Confirm Password</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="txtview_already_have_an_account">Already have an account</string>
+    <string name="textviewlink_login">Login</string>
+    <string name="photoGallery">Photo Gallery</string>
+    <string name="txtBtn_Login">Login</string>
+    <string name="txtBtn_signup">Sign Up</string>
+    <string name="navItem_home">Home</string>
+    <string name="navItem_govScheme">Government Scheme</string>
+    <string name="navItem_Complaint">Complaint</string>
+    <string name="navItem_ourwork">Our Work</string>
+    <string name="navItem_contactUs">Contact Us</string>
+    <string name="edt_contactus_mobileno">Mobile No</string>
+    <string name="edt_contactus_message">Message</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="btn_send">Send</string>
+    <string name="notification1">Notification1</string>
+    <string name="notification">Notification</string>
+    <string name="news_events">News/Events</string>
+    <string name="Call_us_on_8888888888">Call us on 88888888</string>
+    <string name="about_us">About Us</string>
+    <string name="for_more_info_contactus">For more info, contact us</string>
+    <string name="connect_with_us">Connect with us</string>
+    <string name="Complaint">Complaint</string>
+    <string name="edt_complaint_subject">Subject</string>
+    <string name="edt_complaint">Complaint</string>
+    <string name="Complaint_Type">Complaint Type</string>
+    <string name="navItem_aboutus">About Us</string>
+    <string name="navItem_news_events">News/Events</string>
+    <string name="news">News</string>
+    <string name="btn_more_info">More info</string>
+    <string name="schemes">Government Schemes</string>
+    <string-array name="complaint_type">
+        <item>Anonymous</item>
+        <item>Name</item>
+
+    </string-array>
+    <string-array name="gender">
+        <item>Female</item>
+        <item>Male</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txtView_demo">\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"</string>
+    <string name="scheme_details">Scheme Details</string>
+    <string name="profile">Profile</string>
+    <string name="edt_profile_username">Your Name</string>
+    <string name="edt_profile_email">Email</string>
+    <string name="edt_profile_mobileno">Mobile No</string>
+    <string name="gender">Gender</string>
+    <string name="btn_update">Update</string>
+
+    <!--nav_header_string-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">[Darshana Dixit]</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+</resources>

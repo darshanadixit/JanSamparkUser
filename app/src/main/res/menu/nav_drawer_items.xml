@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/navItem_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            />
+
+        <item
+            android:id="@+id/nav_govSheme"
+            android:title="@string/navItem_govScheme"
+            android:icon="@drawable/ic_baseline_campaign_24"
+            />
+
+        <item
+            android:id="@+id/nav_complaint"
+            android:title="@string/navItem_Complaint"
+            android:icon="@drawable/ic_baseline_create_24"
+            />
+
+        <item
+            android:id="@+id/nav_ourWork"
+            android:title="@string/navItem_ourwork"
+            android:icon="@drawable/ic_baseline_work_24"
+            />
+        <item
+            android:id="@+id/nav_news"
+            android:title="@string/navItem_news_events"
+            android:icon="@drawable/ic_baseline_event_24"
+            />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:title="@string/navItem_aboutus"
+            android:icon="@drawable/ic_baseline_person_24"
+            />
+        <item
+            android:id="@+id/nav_contactUs"
+            android:title="@string/navItem_contactUs"
+            android:icon="@drawable/ic_baseline_phone_24"
+            />
+
+    </group>
+
+
+</menu>

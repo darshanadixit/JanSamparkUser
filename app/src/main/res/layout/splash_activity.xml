@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="151dp"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/ic_baseline_android_orange_24"/>
+
+    <TextView
+        android:id="@+id/txtviewSplash"
+        android:layout_width="159dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="100dp"
+        android:background="@color/orange"
+        android:fontFamily="@font/poppins_regular"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="JanSampark"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        />
+</LinearLayout>
